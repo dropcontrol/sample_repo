@@ -5,6 +5,7 @@
 //  Created by hiroshi yamato on 7/5/13.
 //  Copyright (c) 2013 Alliance Port, LLC. All rights reserved.
 //
+//  修正したフリ。
 
 #import <UIKit/UIKit.h>
 
