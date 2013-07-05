@@ -6,6 +6,7 @@
 //  Copyright (c) 2013 Alliance Port, LLC. All rights reserved.
 //
 //  修正したフリ。
+//  testtest.
 
 #import <UIKit/UIKit.h>
 
